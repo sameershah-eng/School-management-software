@@ -1,0 +1,6 @@
+{
+  "name": "DanseFlow - Swiss Dance School Management SaaS",
+  "description": "Comprehensive dance studio operations, Swiss QR-bill invoicing, CAMT bank reconciliation, point cards, class scheduling, and student registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
